@@ -183,7 +183,7 @@
   </Placemark>
   <Placemark>
 	<name>Faculty of Sport and Physical Education, University of Sarajevo</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/www.fasto.unsa.ba</description>
+	<description>https://www.fasto.unsa.ba</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -197,7 +197,7 @@
   </Placemark>
   <Placemark>
 	<name>Faculty of Education , University of travnik</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/www.eft.ba</description>
+	<description>https://www.eft.ba</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -239,7 +239,7 @@
   </Placemark>
   <Placemark>
 	<name>University of Zagreb</name>
-	<description>http://kif.hr/en/study/university_study__kinesiology %C2%A0</description>
+	<description>http://kif.hr/en/study/university_study__kinesiology</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor"></SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -253,7 +253,7 @@
   </Placemark>
   <Placemark>
 	<name>International University LIBERTAS</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.libertas.hr/en/study-programmes/undergraduate-professional-study-programmes/sports-management/</description>
+	<description>https:/www.libertas.hr/en/study-programmes/undergraduate-professional-study-programmes/sports-management/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -295,7 +295,7 @@
   </Placemark>
   <Placemark>
 	<name>Faculty of PE and Sport, Charles University</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/ftvs.cuni.cz/FTVSEN-5.html</description>
+	<description>https:/ftvs.cuni.cz/FTVSEN-5.html</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -309,7 +309,7 @@
   </Placemark>
   <Placemark>
 	<name>Palacky University Olomouc, Faculty of Physical Culture</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/ftk.upol.cz/en/</description>
+	<description>https:/ftk.upol.cz/en/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -323,7 +323,7 @@
   </Placemark>
   <Placemark>
 	<name>Technical University Ostrava, Faculty of Economics</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.ekf.vsb.cz/en/</description>
+	<description>https:/www.ekf.vsb.cz/en/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -337,7 +337,7 @@
   </Placemark>
   <Placemark>
 	<name>Masaryk University, Faculty of Sport Studies</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.muni.cz/en/about-us/organizational-structure/faculty-of-sports-studies</description>
+	<description>https:/www.muni.cz/en/about-us/organizational-structure/faculty-of-sports-studies</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -351,7 +351,7 @@
   </Placemark>
   <Placemark>
 	<name>UCL University College</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.ucl.dk/international</description>
+	<description>https:/www.ucl.dk/international</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -365,7 +365,7 @@
   </Placemark>
   <Placemark>
 	<name>University of Southern Denmark</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.sdu.dk/en</description>
+	<description>https:/www.sdu.dk/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor"></SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -379,7 +379,7 @@
   </Placemark>
   <Placemark>
 	<name>University College of Northern Denmark</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.ucn.dk/english/programmes-and-courses/sportsmanagement</description>
+	<description>https:/www.ucn.dk/english/programmes-and-courses/sportsmanagement</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -1317,7 +1317,7 @@
   </Placemark>
   <Placemark>
 	<name>Athens University</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.athens.edu/</description>
+	<description>https:/www.athens.edu/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor"></SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -1331,7 +1331,7 @@
   </Placemark>
   <Placemark>
 	<name>Aristotle University of Serres</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/phed-sr.auth.gr/en</description>
+	<description>https:/phed-sr.auth.gr/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor"></SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -1345,7 +1345,7 @@
   </Placemark>
   <Placemark>
 	<name>University of Peloponnese, Sparta</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.uop.gr/en/</description>
+	<description>https:/www.uop.gr/en/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -1359,7 +1359,7 @@
   </Placemark>
   <Placemark>
 	<name>University of Thessaly</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0http:/old.uth.gr/en/</description>
+	<description>http:/old.uth.gr/en/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor"></SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -1429,7 +1429,7 @@
   </Placemark>
   <Placemark>
 	<name>University College Dublin</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.ucd.ie/css/</description>
+	<description>https:/www.ucd.ie/css/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -1625,7 +1625,7 @@
   </Placemark>
   <Placemark>
 	<name>Lithuanian Sports University</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/www.lsu.lt/en</description>
+	<description>https://www.lsu.lt/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -1849,7 +1849,7 @@
   </Placemark>
   <Placemark>
 	<name>The Norwegian School of Sport Sciences</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/www.nih.no</description>
+	<description>https://www.nih.no</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -2171,7 +2171,7 @@
   </Placemark>
   <Placemark>
 	<name>Faculty of Sport and Physical Education, Novi Sad</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/www.fsfvns.rs</description>
+	<description>https://www.fsfvns.rs</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -2185,7 +2185,7 @@
   </Placemark>
   <Placemark>
 	<name>Faculty for Sport, University Union - Nikola Tesla</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/www.fzs.edu.rs</description>
+	<description>https://www.fzs.edu.rs</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor"></SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -2199,7 +2199,7 @@
   </Placemark>
   <Placemark>
 	<name>Faculty for Physical Culture and Management in Sport</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/www.singidunum.ac.rs</description>
+	<description>https://www.singidunum.ac.rs</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor"></SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -2227,7 +2227,7 @@
   </Placemark>
   <Placemark>
 	<name>Higher school - Football Academy</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/www.akademijafudbala.com</description>
+	<description>https://www.akademijafudbala.com</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -2759,7 +2759,7 @@
   </Placemark>
   <Placemark>
 	<name>AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.agri.edu.tr/default.aspx?dil=en-US</description>
+	<description>https:/www.agri.edu.tr/default.aspx?dil=en-US</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -2773,7 +2773,7 @@
   </Placemark>
   <Placemark>
 	<name>AKDENİZ ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/eng.akdeniz.edu.tr/</description>
+	<description>https:/eng.akdeniz.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -2787,7 +2787,7 @@
   </Placemark>
   <Placemark>
 	<name>AKSARAY ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.aksaray.edu.tr/?l=en</description>
+	<description>https:/www.aksaray.edu.tr/?l=en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -2801,7 +2801,7 @@
   </Placemark>
   <Placemark>
 	<name>ANADOLU ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.anadolu.edu.tr/en</description>
+	<description>https:/www.anadolu.edu.tr/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor"></SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -2815,7 +2815,7 @@
   </Placemark>
   <Placemark>
 	<name>ANKARA ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/en.ankara.edu.tr/</description>
+	<description>https:/en.ankara.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -2829,7 +2829,7 @@
   </Placemark>
   <Placemark>
 	<name>ARDAHAN ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.ardahan.edu.tr/</description>
+	<description>https:/www.ardahan.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -2843,7 +2843,7 @@
   </Placemark>
   <Placemark>
 	<name>ARTVİN ÇORUH ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.artvin.edu.tr/en</description>
+	<description>https:/www.artvin.edu.tr/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -2857,7 +2857,7 @@
   </Placemark>
   <Placemark>
 	<name>ATATÜRK ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/atauni.edu.tr/en/index</description>
+	<description>https:/atauni.edu.tr/en/index</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -2871,7 +2871,7 @@
   </Placemark>
   <Placemark>
 	<name>AYDIN ADNAN MENDERES ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.adu.edu.tr/en/</description>
+	<description>https:/www.adu.edu.tr/en/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -2885,7 +2885,7 @@
   </Placemark>
   <Placemark>
 	<name>BAHÇEŞEHİR ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/bau.edu.tr/</description>
+	<description>https:/bau.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor"></SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -2899,7 +2899,7 @@
   </Placemark>
   <Placemark>
 	<name>BALIKESİR ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0http:/www.balikesir.edu.tr/site/index?lang=en</description>
+	<description>http:/www.balikesir.edu.tr/site/index?lang=en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -2913,7 +2913,7 @@
   </Placemark>
   <Placemark>
 	<name>BARTIN ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/en.bartin.edu.tr/</description>
+	<description>https:/en.bartin.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -2927,7 +2927,7 @@
   </Placemark>
   <Placemark>
 	<name>BATMAN ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/batman.edu.tr/</description>
+	<description>https:/batman.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -2941,7 +2941,7 @@
   </Placemark>
   <Placemark>
 	<name>BİNGÖL ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0http:/www.bingol.edu.tr/en</description>
+	<description>http:/www.bingol.edu.tr/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -2955,7 +2955,7 @@
   </Placemark>
   <Placemark>
 	<name>BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0http:/www.ibu.edu.tr/en</description>
+	<description>http:/www.ibu.edu.tr/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -2969,7 +2969,7 @@
   </Placemark>
   <Placemark>
 	<name>BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.mehmetakif.edu.tr/</description>
+	<description>https:/www.mehmetakif.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -2983,7 +2983,7 @@
   </Placemark>
   <Placemark>
 	<name>ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/global.comu.edu.tr/</description>
+	<description>https:/global.comu.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -2997,7 +2997,7 @@
   </Placemark>
   <Placemark>
 	<name>ÇUKUROVA ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.cu.edu.tr/en/</description>
+	<description>https:/www.cu.edu.tr/en/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3011,7 +3011,7 @@
   </Placemark>
   <Placemark>
 	<name>DİCLE ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.dicle.edu.tr/tr/index</description>
+	<description>https:/www.dicle.edu.tr/tr/index</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3025,7 +3025,7 @@
   </Placemark>
   <Placemark>
 	<name>DÜZCE ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/duzce.edu.tr/en</description>
+	<description>https:/duzce.edu.tr/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3039,7 +3039,7 @@
   </Placemark>
   <Placemark>
 	<name>EGE ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/ege.edu.tr/eng-0/homepage.html</description>
+	<description>https:/ege.edu.tr/eng-0/homepage.html</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -3053,7 +3053,7 @@
   </Placemark>
   <Placemark>
 	<name>ERCİYES ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.erciyes.edu.tr/home/index</description>
+	<description>https:/www.erciyes.edu.tr/home/index</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3067,7 +3067,7 @@
   </Placemark>
   <Placemark>
 	<name>ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/ebyu.edu.tr/</description>
+	<description>https:/ebyu.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3081,7 +3081,7 @@
   </Placemark>
   <Placemark>
 	<name>ESKİŞEHİR TEKNİK ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.eskisehir.edu.tr/</description>
+	<description>https:/www.eskisehir.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3095,7 +3095,7 @@
   </Placemark>
   <Placemark>
 	<name>FIRAT ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0http:/www.firat.edu.tr/en</description>
+	<description>http:/www.firat.edu.tr/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3109,7 +3109,7 @@
   </Placemark>
   <Placemark>
 	<name>GAZİ ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/gazi.edu.tr/</description>
+	<description>https:/gazi.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -3123,7 +3123,7 @@
   </Placemark>
   <Placemark>
 	<name>GAZİANTEP ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.gantep.edu.tr/en/</description>
+	<description>https:/www.gantep.edu.tr/en/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3137,7 +3137,7 @@
   </Placemark>
   <Placemark>
 	<name>GÜMÜŞHANE ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.gumushane.edu.tr/?lang=en-us</description>
+	<description>https:/www.gumushane.edu.tr/?lang=en-us</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3151,7 +3151,7 @@
   </Placemark>
   <Placemark>
 	<name>HALİÇ ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.halic.edu.tr/en</description>
+	<description>https:/www.halic.edu.tr/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3165,7 +3165,7 @@
   </Placemark>
   <Placemark>
 	<name>HATAY MUSTAFA KEMAL ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.mku.edu.tr/default.aspx</description>
+	<description>https:/www.mku.edu.tr/default.aspx</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3179,7 +3179,7 @@
   </Placemark>
   <Placemark>
 	<name>HİTİT ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.hitit.edu.tr/en</description>
+	<description>https:/www.hitit.edu.tr/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3193,7 +3193,7 @@
   </Placemark>
   <Placemark>
 	<name>İNÖNÜ ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0http:/www.inonu.edu.tr/</description>
+	<description>http:/www.inonu.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3207,7 +3207,7 @@
   </Placemark>
   <Placemark>
 	<name>İSTANBUL AYDIN ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.aydin.edu.tr/en-us/Pages/default.aspx</description>
+	<description>https:/www.aydin.edu.tr/en-us/Pages/default.aspx</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3221,7 +3221,7 @@
   </Placemark>
   <Placemark>
 	<name>İSTANBUL BİLGİ ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.bilgi.edu.tr/en/</description>
+	<description>https:/www.bilgi.edu.tr/en/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3235,7 +3235,7 @@
   </Placemark>
   <Placemark>
 	<name>İSTANBUL ESENYURT ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/esenyurt.edu.tr/en</description>
+	<description>https:/esenyurt.edu.tr/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3249,7 +3249,7 @@
   </Placemark>
   <Placemark>
 	<name>İSTANBUL GEDİK ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.gedik.edu.tr/</description>
+	<description>https:/www.gedik.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3263,7 +3263,7 @@
   </Placemark>
   <Placemark>
 	<name>İSTANBUL GELİŞİM ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/gelisim.edu.tr/en</description>
+	<description>https:/gelisim.edu.tr/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -3277,7 +3277,7 @@
   </Placemark>
   <Placemark>
 	<name>İSTANBUL OKAN ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.okan.edu.tr/en/international/</description>
+	<description>https:/www.okan.edu.tr/en/international/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -3291,7 +3291,7 @@
   </Placemark>
   <Placemark>
 	<name>İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.istanbulc.edu.tr/en/_</description>
+	<description>https:/www.istanbulc.edu.tr/en/_</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -3305,7 +3305,7 @@
   </Placemark>
   <Placemark>
 	<name>KAFKAS ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.kafkas.edu.tr/kau/en</description>
+	<description>https:/www.kafkas.edu.tr/kau/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3319,7 +3319,7 @@
   </Placemark>
   <Placemark>
 	<name>KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.ksu.edu.tr/</description>
+	<description>https:/www.ksu.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor"></SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -3333,7 +3333,7 @@
   </Placemark>
   <Placemark>
 	<name>KARABÜK ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/unika.edu.tr/</description>
+	<description>https:/unika.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3347,7 +3347,7 @@
   </Placemark>
   <Placemark>
 	<name>KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.kmu.edu.tr/en/default.aspx</description>
+	<description>https:/www.kmu.edu.tr/en/default.aspx</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3361,7 +3361,7 @@
   </Placemark>
   <Placemark>
 	<name>KASTAMONU ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/international.kastamonu.edu.tr/index.php/en/</description>
+	<description>https:/international.kastamonu.edu.tr/index.php/en/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3375,7 +3375,7 @@
   </Placemark>
   <Placemark>
 	<name>KIRIKKALE ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/kku.edu.tr/Anasayfa</description>
+	<description>https:/kku.edu.tr/Anasayfa</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3389,7 +3389,7 @@
   </Placemark>
   <Placemark>
 	<name>KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.ahievran.edu.tr/en/</description>
+	<description>https:/www.ahievran.edu.tr/en/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3403,7 +3403,7 @@
   </Placemark>
   <Placemark>
 	<name>KOCAELİ ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0http:/www.kocaeli.edu.tr/int/index.php</description>
+	<description>http:/www.kocaeli.edu.tr/int/index.php</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3417,7 +3417,7 @@
   </Placemark>
   <Placemark>
 	<name>KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.dpu.edu.tr/</description>
+	<description>https:/www.dpu.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3431,7 +3431,7 @@
   </Placemark>
   <Placemark>
 	<name>MANİSA CELÂL BAYAR ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/en.mcbu.edu.tr/</description>
+	<description>https:/en.mcbu.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -3445,7 +3445,7 @@
   </Placemark>
   <Placemark>
 	<name>MARMARA ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.marmara.edu.tr/en</description>
+	<description>https:/www.marmara.edu.tr/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -3459,7 +3459,7 @@
   </Placemark>
   <Placemark>
 	<name>MERSİN ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0http:/www.mersin.edu.tr/</description>
+	<description>http:/www.mersin.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3473,7 +3473,7 @@
   </Placemark>
   <Placemark>
 	<name>MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.mu.edu.tr/en</description>
+	<description>https:/www.mu.edu.tr/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -3487,7 +3487,7 @@
   </Placemark>
   <Placemark>
 	<name>MUŞ ALPARSLAN ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.alparslan.edu.tr/en</description>
+	<description>https:/www.alparslan.edu.tr/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3501,7 +3501,7 @@
   </Placemark>
   <Placemark>
 	<name>NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.ohu.edu.tr/</description>
+	<description>https:/www.ohu.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3515,7 +3515,7 @@
   </Placemark>
   <Placemark>
 	<name>NİŞANTAŞI ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.nisantasi.edu.tr/?dil=eng</description>
+	<description>https:/www.nisantasi.edu.tr/?dil=eng</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3529,7 +3529,7 @@
   </Placemark>
   <Placemark>
 	<name>ONDOKUZ MAYIS ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.omu.edu.tr/en</description>
+	<description>https:/www.omu.edu.tr/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -3543,7 +3543,7 @@
   </Placemark>
   <Placemark>
 	<name>ORDU ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.odu.edu.tr/</description>
+	<description>https:/www.odu.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3557,7 +3557,7 @@
   </Placemark>
   <Placemark>
 	<name>PAMUKKALE ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.pau.edu.tr/pau/en</description>
+	<description>https:/www.pau.edu.tr/pau/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -3571,7 +3571,7 @@
   </Placemark>
   <Placemark>
 	<name>RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/erdogan.edu.tr/Website/Default.aspx?LangID=2</description>
+	<description>https:/erdogan.edu.tr/Website/Default.aspx?LangID=2</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3585,7 +3585,7 @@
   </Placemark>
   <Placemark>
 	<name>SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.subu.edu.tr/</description>
+	<description>https:/www.subu.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -3599,7 +3599,7 @@
   </Placemark>
   <Placemark>
 	<name>SELÇUK ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.selcuk.edu.tr/</description>
+	<description>https:/www.selcuk.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master">YES</SimpleData>
@@ -3613,7 +3613,7 @@
   </Placemark>
   <Placemark>
 	<name>SİİRT ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.siirt.edu.tr/</description>
+	<description>https:/www.siirt.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3627,7 +3627,7 @@
   </Placemark>
   <Placemark>
 	<name>SİVAS CUMHURİYET ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.cumhuriyet.edu.tr/</description>
+	<description>https:/www.cumhuriyet.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3641,7 +3641,7 @@
   </Placemark>
   <Placemark>
 	<name>TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0http:/www.nku.edu.tr/en</description>
+	<description>http:/www.nku.edu.tr/en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3655,7 +3655,7 @@
   </Placemark>
   <Placemark>
 	<name>TRABZON ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.trabzon.edu.tr/Website/Default.aspx</description>
+	<description>https:/www.trabzon.edu.tr/Website/Default.aspx</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3669,7 +3669,7 @@
   </Placemark>
   <Placemark>
 	<name>TRAKYA ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www-en.trakya.edu.tr/</description>
+	<description>https:/www-en.trakya.edu.tr/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3683,7 +3683,7 @@
   </Placemark>
   <Placemark>
 	<name>UŞAK ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0https:/www.usak.edu.tr/Home/Index/Ingilizce</description>
+	<description>https:/www.usak.edu.tr/Home/Index/Ingilizce</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
@@ -3697,7 +3697,7 @@
   </Placemark>
   <Placemark>
 	<name>YOZGAT BOZOK ÜNİVERSİTESİ</name>
-	<description>https://www.easm.net/sport-management-programmes-in-europe/%C2%A0http:/bozok.edu.tr/?l=en</description>
+	<description>http:/bozok.edu.tr/?l=en</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
 		<SimpleData name="Bachelor">YES</SimpleData>
 		<SimpleData name="Master"></SimpleData>
