@@ -2562,34 +2562,6 @@
       <Point><coordinates>-3.74922,40.463667</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>Instituto Nacional Educación Física de Cataluña (Universidad de Lleida)</name>
-	<description>http://inefc.gencat.cat/es/inefc/estudiar_a_inefc/masters-postgraus/master-gestio-esportiva/</description>
-	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
-		<SimpleData name="Bachelor"></SimpleData>
-		<SimpleData name="Master">YES</SimpleData>
-		<SimpleData name="PhD">YES</SimpleData>
-		<SimpleData name="Country">Spain</SimpleData>
-		<SimpleData name="Email">internationalsportslaw@inefc.es</SimpleData>
-		<SimpleData name="Latitude">41.3652236</SimpleData>
-		<SimpleData name="Longitude">2.1469194</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>2.1469194,41.3652236</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>Instituto Nacional Educación Física de Cataluña (Universidad de Lleida)</name>
-	<description>http://inefc.gencat.cat/es/inefc/estudiar_a_inefc/masters-postgraus/master-gestio-esportiva/</description>
-	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
-		<SimpleData name="Bachelor"></SimpleData>
-		<SimpleData name="Master">YES</SimpleData>
-		<SimpleData name="PhD">YES</SimpleData>
-		<SimpleData name="Country">Spain</SimpleData>
-		<SimpleData name="Email">internationalsportslaw@inefc.es</SimpleData>
-		<SimpleData name="Latitude">41.3652236</SimpleData>
-		<SimpleData name="Longitude">2.1469194</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>2.1469194,41.3652236</coordinates></Point>
-  </Placemark>
-  <Placemark>
 	<name>Universidad de Vigo + Universidad de Coruña</name>
 	<description>https://mdip.es/</description>
 	<ExtendedData><SchemaData schemaUrl="#Final_Sports_Management_Programs_with_Coordinates_Corrected">
