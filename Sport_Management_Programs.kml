@@ -16,7 +16,6 @@
     <SimpleField name="Latitude" type="float" />
 </Schema>
 <Folder><name>Sports_Management_Programs</name>
-
     <Placemark>
         <name>Sports University of Tirana</name>
         <description>Rruga Muhamet Gjollesha, Tiranë, Albania</description>
@@ -38,8 +37,6 @@
             <coordinates>19.8189,41.3275</coordinates>
         </Point>
     </Placemark>
-    
-
     <Placemark>
         <name>Department of Sport Science, University of Innsbruck</name>
         <description>Fürstenweg 185, 6020 Innsbruck, Austria</description>
@@ -61,8 +58,6 @@
             <coordinates>11.3501,47.2607</coordinates>
         </Point>
     </Placemark>
-    
-
     <Placemark>
         <name>Paris Lodron University of Salzburg</name>
         <description>Kapitelgasse 4–6, 5020 Salzburg, Austria</description>
@@ -84,8 +79,6 @@
             <coordinates>13.0454,47.7982</coordinates>
         </Point>
     </Placemark>
-    
-
     <Placemark>
         <name>University of Innsbruck, UMIT, Landeck</name>
         <description>Bruggfeldstraße 7 + 7c, 6500 Landeck, Austria</description>
@@ -107,8 +100,6 @@
             <coordinates>10.5632,47.1386</coordinates>
         </Point>
     </Placemark>
-    
-
     <Placemark>
         <name>FH Kufstein Tirol</name>
         <description>Andreas Hofer-Straße 7, 6330 Kufstein, Austria</description>
@@ -130,8 +121,6 @@
             <coordinates>12.1656,47.5834</coordinates>
         </Point>
     </Placemark>
-    
-
     <Placemark>
         <name>Donau-Universität Krems</name>
         <description>Dr.-Karl-Dorrek-Straße 30, 3500 Krems, Austria</description>
@@ -153,8 +142,6 @@
             <coordinates>15.6066,48.4105</coordinates>
         </Point>
     </Placemark>
-    
-
     <Placemark>
         <name>KMU Akademie and Management AG</name>
         <description>Museumstraße 9, 4020 Linz, Austria</description>
@@ -176,8 +163,6 @@
             <coordinates>14.2858,48.3059</coordinates>
         </Point>
     </Placemark>
-    
-
     <Placemark>
         <name>Privatuniversität Schloss Seeburg</name>
         <description>Seeburgstraße 8, 5201 Seekirchen am Wallersee, Austria</description>
@@ -199,8 +184,6 @@
             <coordinates>13.1281,47.8994</coordinates>
         </Point>
     </Placemark>
-    
-
     <Placemark>
         <name>Ghent University</name>
         <description>Department of Movement and Sports Sciences, Watersportlaan 2, 9000 Ghent, Belgium</description>
@@ -222,8 +205,6 @@
             <coordinates>3.726,51.0396</coordinates>
         </Point>
     </Placemark>
-    
-
     <Placemark>
         <name>KU Leuven</name>
         <description>Faculty of Movement and Rehabilitation Sciences, Tervuursevest 101, 3001 Leuven, Belgium</description>
@@ -242,11 +223,9 @@
             </SchemaData>
         </ExtendedData>
         <Point>
-            <coordinates>4.7014,50.8612,0</coordinates>
+            <coordinates>4.7014,50.8612</coordinates>
         </Point>
     </Placemark>
-    
-
     <Placemark>
         <name>Vrije Universiteit Brussel</name>
         <description>Pleinlaan 2, 1050 Brussels, Belgium</description>
@@ -265,11 +244,9 @@
             </SchemaData>
         </ExtendedData>
         <Point>
-            <coordinates>4.3942,50.8229,0</coordinates>
+            <coordinates>4.3942,50.8229</coordinates>
         </Point>
     </Placemark>
-    
-
     <Placemark>
         <name>Université Catholique de Louvain</name>
         <description>Place de l'Université 1, 1348 Louvain-la-Neuve, Belgium</description>
