@@ -234,7 +234,7 @@
                 <SimpleData name="Country">Belgium</SimpleData>
                 <SimpleData name="Phone">+32 2 629 20 10</SimpleData>
                 <SimpleData name="Email">info@vub.be</SimpleData>
-                <SimpleData name="Website">https://caliweb.vub.be/?page=plan&id=00673&anchor=0000001979&target=pr&year=1920&language=nl&output=html</SimpleData>
+                <SimpleData name="Website">https://caliweb.vub.be/</SimpleData>
                 <SimpleData name="Bachelor">nan</SimpleData>
                 <SimpleData name="Master">Yes</SimpleData>
                 <SimpleData name="PhD">Yes</SimpleData>
