@@ -133,7 +133,7 @@
     
 
     <Placemark>
-        <name>Donau-Universitaet Krems</name>
+        <name>Donau-Universität Krems</name>
         <description>Dr.-Karl-Dorrek-Straße 30, 3500 Krems, Austria</description>
         <ExtendedData>
             <SchemaData schemaUrl="#Sports_Management_Programs">
@@ -173,7 +173,7 @@
             </SchemaData>
         </ExtendedData>
         <Point>
-            <coordinates>14.2858,48.3059,0</coordinates>
+            <coordinates>14.2858,48.3059</coordinates>
         </Point>
     </Placemark>
     
@@ -196,7 +196,7 @@
             </SchemaData>
         </ExtendedData>
         <Point>
-            <coordinates>13.1281,47.8994,0</coordinates>
+            <coordinates>13.1281,47.8994</coordinates>
         </Point>
     </Placemark>
     
@@ -219,7 +219,7 @@
             </SchemaData>
         </ExtendedData>
         <Point>
-            <coordinates>3.726,51.0396,0</coordinates>
+            <coordinates>3.726,51.0396</coordinates>
         </Point>
     </Placemark>
     
