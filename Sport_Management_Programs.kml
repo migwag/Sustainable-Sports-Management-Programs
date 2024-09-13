@@ -265,11 +265,9 @@
             </SchemaData>
         </ExtendedData>
         <Point>
-            <coordinates>4.6117,50.6683,0</coordinates>
+            <coordinates>4.6117,50.6683</coordinates>
         </Point>
     </Placemark>
-    
-
     <Placemark>
         <name>Faculty of Sport and Physical Education, University of Sarajevo</name>
         <description>Patriotske lige 41, 71000 Sarajevo, Bosnia and Herzegovina</description>
@@ -288,11 +286,9 @@
             </SchemaData>
         </ExtendedData>
         <Point>
-            <coordinates>18.4031,43.8667,0</coordinates>
+            <coordinates>18.4031,43.8667</coordinates>
         </Point>
     </Placemark>
-    
-
     <Placemark>
         <name>Faculty of Education, University of Travnik</name>
         <description>Aleja Konzula No. 5, 72270 Travnik, Bosnia and Herzegovina</description>
@@ -311,11 +307,9 @@
             </SchemaData>
         </ExtendedData>
         <Point>
-            <coordinates>17.6537,44.2264,0</coordinates>
+            <coordinates>17.6537,44.2264</coordinates>
         </Point>
     </Placemark>
-    
-
     <Placemark>
         <name>University Apeiron Banja Luka</name>
         <description>Vojvode Pere Krece 13, 78102 Banja Luka, Bosnia and Herzegovina</description>
@@ -334,7 +328,7 @@
             </SchemaData>
         </ExtendedData>
         <Point>
-            <coordinates>17.1989,44.7722,0</coordinates>
+            <coordinates>17.1989,44.7722</coordinates>
         </Point>
     </Placemark>
     
