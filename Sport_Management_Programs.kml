@@ -35,7 +35,7 @@
             </SchemaData>
         </ExtendedData>
         <Point>
-            <coordinates>19.8189,41.3275,0</coordinates>
+            <coordinates>19.8189,41.3275</coordinates>
         </Point>
     </Placemark>
     
@@ -58,7 +58,7 @@
             </SchemaData>
         </ExtendedData>
         <Point>
-            <coordinates>11.3501,47.2607,0</coordinates>
+            <coordinates>11.3501,47.2607</coordinates>
         </Point>
     </Placemark>
     
@@ -81,7 +81,7 @@
             </SchemaData>
         </ExtendedData>
         <Point>
-            <coordinates>13.0454,47.7982,0</coordinates>
+            <coordinates>13.0454,47.7982</coordinates>
         </Point>
     </Placemark>
     
@@ -104,7 +104,7 @@
             </SchemaData>
         </ExtendedData>
         <Point>
-            <coordinates>10.5632,47.1386,0</coordinates>
+            <coordinates>10.5632,47.1386</coordinates>
         </Point>
     </Placemark>
     
@@ -127,7 +127,7 @@
             </SchemaData>
         </ExtendedData>
         <Point>
-            <coordinates>12.1656,47.5834,0</coordinates>
+            <coordinates>12.1656,47.5834</coordinates>
         </Point>
     </Placemark>
     
@@ -150,7 +150,7 @@
             </SchemaData>
         </ExtendedData>
         <Point>
-            <coordinates>15.6066,48.4105,0</coordinates>
+            <coordinates>15.6066,48.4105</coordinates>
         </Point>
     </Placemark>
     
